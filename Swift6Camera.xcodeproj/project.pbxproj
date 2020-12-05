@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E36B342A257B518B00E72316 /* CheckPermission.swift in Sources */ = {isa = PBXBuildFile; fileRef = E36B3429257B518B00E72316 /* CheckPermission.swift */; };
 		E3F414CE257919BD00281825 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F414CD257919BD00281825 /* AppDelegate.swift */; };
 		E3F414D0257919BD00281825 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F414CF257919BD00281825 /* SceneDelegate.swift */; };
 		E3F414D2257919BD00281825 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3F414D1257919BD00281825 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		E36B3429257B518B00E72316 /* CheckPermission.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckPermission.swift; sourceTree = "<group>"; };
 		E3F414CA257919BD00281825 /* Swift6Camera.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Swift6Camera.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3F414CD257919BD00281825 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E3F414CF257919BD00281825 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				E3F414CF257919BD00281825 /* SceneDelegate.swift */,
 				E3F414D1257919BD00281825 /* ViewController.swift */,
 				E3F414D3257919BD00281825 /* Main.storyboard */,
+				E36B3429257B518B00E72316 /* CheckPermission.swift */,
 				E3F414D6257919C000281825 /* Assets.xcassets */,
 				E3F414D8257919C000281825 /* LaunchScreen.storyboard */,
 				E3F414DB257919C000281825 /* Info.plist */,
@@ -140,6 +143,7 @@
 				E3F414D2257919BD00281825 /* ViewController.swift in Sources */,
 				E3F414CE257919BD00281825 /* AppDelegate.swift in Sources */,
 				E3F414D0257919BD00281825 /* SceneDelegate.swift in Sources */,
+				E36B342A257B518B00E72316 /* CheckPermission.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
